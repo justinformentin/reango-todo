@@ -49,3 +49,5 @@ python manage.py migrate
 
 2. The React components are in the client directory, and django is in the server directory.
 
+
+This project is referenced on my website, [justinformentin.com](https://justinformentin.com/portfolio/django-react/)
